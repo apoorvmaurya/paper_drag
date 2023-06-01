@@ -29,4 +29,4 @@ This web page showcases draggable papers with various designs and content. Users
 
 ##### *Feel free to explore, modify, and use this web page for personal or educational purposes.*
 
-I appreciate any feedback or contributions. If you encounter any issues or have suggestions for improvements, please [submit an issue](https://github.com/apoorvmaurya/drag_papers/issues) or [create a pull request](https://github.com/apoorvmaurya/drag_papers/pulls).
+I appreciate any feedback or contributions. If you encounter any issues or have suggestions for improvements, please [submit an issue](https://github.com/apoorvmaurya/paper_drag/issues) or [create a pull request](https://github.com/apoorvmaurya/paper_drag/pulls).
